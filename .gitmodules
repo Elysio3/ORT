@@ -1,0 +1,6 @@
+[submodule "ORT-CSI"]
+	path = ORT-CSI
+	url = https://github.com/Elysio3/ORT-CSI.git
+[submodule "ORT-MS2D"]
+	path = ORT-MS2D
+	url = https://github.com/Elysio3/ORT-MS2D.git
